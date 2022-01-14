@@ -16,14 +16,15 @@ Teaching myself to download more software for projects was a new thing for me bu
 ## What could I improve:
 I could not improve on anything without receiving some feedback on what I could do better or easier.
 I am glad to have the opportunity to work on such an outstanding assessment. 
-Wishing for more time was something I knew that is was going to happen. 
+Wishing for more time was something I knew that is was going to happen.
+Therefore, I left an image of where I left off during this assessment.
 
 
 ## Techniques I used:
 Visual Studio Code.
 GitHub.
 SQLite.
-Youtube, Discord, Stackoverflow, and Google (for research).
+Youtube, Discord, Stackoverflow, Google, e.t.c (for research).
 
 
 ## Last few words:
