@@ -29,6 +29,7 @@ Youtube, Discord, Stackoverflow, and Google (for research).
 ## Last few words:
 I have never done anything at the degree of this difficulty and I, therefore, hope that I could receive some feedback and hopefully see you all at my internship.
 
+Thank you for making this possible.
 
 Sincerely,
 Sam
